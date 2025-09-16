@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Form</title>
+  <link rel="stylesheet" href="./webpg.css">
+</head>
+<body>
+  <div class="container">
+   
+    <header class="header">
+      <div class="icon"></div>
+      <div class="icon"></div>
+    </header>
+
+    <form id="loginForm" class="form">
+      <div class="inputValue">
+        <input type="email" id="email" placeholder="Enter Email" required>
+        <small id="emailError" class="error"></small>
+      </div>
+      <div class="inputValue">
+        <input type="password" id="password" placeholder="Enter Password" required>
+        <small id="passwordError" class="error"></small>
+      </div>
+      <button type="submit" id="submitBtn" disabled>Submit</button>
+    </form>
+  </div>
+  <script src="./webPage.js"></script>
+</body>
+</html>
