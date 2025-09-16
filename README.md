@@ -19,9 +19,9 @@ Welcome to webPage 🎉 – a simple, clean, and responsive login form project b
 Built using only the web basics: <br>
 #HTML5 – structure 🏗️ <br>
 #CSS3 – styling 🎨 <br>
-#JavaScript – interactivity ⚡
+#JavaScript – interactivity ⚡ <br>
 
-webPage/ <br>
+<h3>webPage/ </h3><br>
 │ <br>
 ├── index.html     # The main HTML file <br>
 ├── webpg.css      # All the styling magic<br> 
