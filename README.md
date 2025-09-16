@@ -21,9 +21,9 @@ Built using only the web basics:
 #CSS3 – styling 🎨
 #JavaScript – interactivity ⚡
 
-webPage/
-│
-├── index.html     # The main HTML file
-├── webpg.css      # All the styling magic
-├── webPage.js     # JavaScript for validation
+webPage/ <br>
+│ <br>
+├── index.html     # The main HTML file <br>
+├── webpg.css      # All the styling magic<br> 
+├── webPage.js     # JavaScript for validation <br>
 └── README.md      # You’re reading it right now 😉
